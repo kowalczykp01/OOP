@@ -1,0 +1,15 @@
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\bin\Debug\net6.0\Vector.exe
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\bin\Debug\net6.0\Vector.deps.json
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\bin\Debug\net6.0\Vector.runtimeconfig.json
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\bin\Debug\net6.0\Vector.dll
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\bin\Debug\net6.0\Vector.pdb
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\Vector.csproj.AssemblyReference.cache
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\Vector.AssemblyInfoInputs.cache
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\Vector.AssemblyInfo.cs
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\Vector.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\Vector.dll
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\refint\Vector.dll
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\Vector.pdb
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\Vector.genruntimeconfig.cache
+C:\Users\Pawel\OneDrive\Pulpit\Git\git-csharp\Operator overloading\Vector\obj\Debug\net6.0\ref\Vector.dll
